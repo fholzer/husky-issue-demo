@@ -5,5 +5,8 @@
     "hooks": {
       "pre-commit": "exit 1"
     }
+  },
+  "devDependencies": {
+    "husky": "^4.2.3"
   }
 }
