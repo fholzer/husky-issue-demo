@@ -1,0 +1,9 @@
+{
+  "name": "git-hook-test",
+  "version": "1.0.0",
+  "husky": {
+    "hooks": {
+      "pre-commit": "exit 1"
+    }
+  }
+}
